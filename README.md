@@ -14,4 +14,5 @@ The data wrangling convention is described here: https://github.com/WormBase/sin
 |Name| Description | Caltech Data Link | 
 |-----------|-------------|-----|
 | `packer2019.h5ad` | 89k cells profiled with 10xv2 across multiple timepoints of development| https://data.caltech.edu/records/1945|
+| `taylor2020.h5ad` | 100k cells FACS sorte for neurons at L4 larval stage| https://data.caltech.edu/records/1977|
 | `bendavid2021.h5ad` | 55k cells profiled with 10xv2 at L2 larval stage| https://data.caltech.edu/records/1972|
