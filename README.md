@@ -1,12 +1,14 @@
 # wormcells-notebooks
-This repository collects all the notebooks and scripts used to wrangling C. elegans scRNAseq data and processing it with scvi-tools for the wormcells-viz and scdefg app 
-
+This repository collects all the notebooks and scripts used to wrangling C. elegans scRNAseq data and processing it with scvi-tools for the wormcells-viz and scdefg app. The deployments of these apps is described at https://wormbase.github.io/single-cell/
 
 Notebooks are examples and can be run on Google colab most of the time
 
-For more information see https://wormbase.github.io/single-cell/
+## Example notebook explaining data processing for wormcells-viz app
+https://colab.research.google.com/github/WormBase/wormcells-notebooks/blob/main/wormcells_viz_pipeline_example.ipynb
 
-The data wrangling convention is described here: https://github.com/WormBase/single-cell/blob/main/data_wrangling_convention.md
+
+## WormBase data wrangling convention is described here:
+https://github.com/WormBase/single-cell/blob/main/data_wrangling_convention.md
 
 ### Datasets that have been wrangled and deposited at Caltech Data using the notebooks provided here
 
